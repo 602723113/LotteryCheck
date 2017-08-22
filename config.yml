@@ -1,0 +1,13 @@
+Gui:
+  Title: "容器内容 - 小心虚假抽奖机"
+  Item:
+    Material: 160
+    Data: 15
+    DisplayName: "抽奖纯看运气,尽量不要参与"
+    Lore:
+      - " &b&l> "
+      - ""
+      - "&f强烈建议你&c永远&f不要参加抽奖"
+      - ""
+      - " &b&l> "
+8BlockCannotUse: "&7你附近&a&l8&7格内有玩家存在,无法操作"
